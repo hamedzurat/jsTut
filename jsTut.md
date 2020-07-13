@@ -1,4 +1,6 @@
-# javascript note
+# Javascript Fundamentals
+
+## [inshort](https://javascript.info/javascript-specials)
 
 .
 
