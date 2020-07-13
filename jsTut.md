@@ -16,3 +16,15 @@
 > doesnt matters in javascript. before compiling it will remove all 'newline'
 
 > but error can occure so using ; is good
+
+## comment
+
+<https://javascript.info/structure#code-comments>
+
+> comment in JS is like C/C++
+
+> // This comment occupies a line of its own
+
+>/*An example with two messages.
+>This is a multiline comment.
+>*/  
