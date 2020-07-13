@@ -53,15 +53,16 @@
 
 <https://javascript.info/comments>
 
-> use jsDoc 
+> use jsDoc
+>
 > * <https://en.wikipedia.org/wiki/JSDoc>
 > * <https://jsdoc.app/>
 
-> replace a code piece with a function,
+> replace a code piece with a *function*,
 
-> camelcased function and varible 
+> camelcased *function* and *varible*
 
-> comment on top of function about usage, parameters, returned value.
+> comment on top of function about *usage*, *parameters*, *returned value*.
 
 ## Ninja code
 
