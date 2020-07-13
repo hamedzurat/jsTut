@@ -286,11 +286,26 @@ let sayHi = function() {
 <https://javascript.info/arrow-functions-basics>
 
 
+> There’s another very simple and concise syntax for creating functions, that’s often better than Function Expressions.
+
+```javascript
+let func = (arg1, arg2, ...argN) => expression
+```
+and
+```javascript
+let func = function(arg1, arg2, ...argN) {
+  return expression;
+};
+```
+are the same.
+
+### Multiline arrow functions
+
+<https://javascript.info/arrow-functions-basics#multiline-arrow-functions>
+
+> for multiline arrow function you have to use code block or `{}`.
 
 
-
-
-.
 .
 
 .
