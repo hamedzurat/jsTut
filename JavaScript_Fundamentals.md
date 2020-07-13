@@ -307,38 +307,4 @@ are the same.
 
 > for multiline arrow function you have to use code block or `{}`.
 
-
-.
-
-.
-.
-.
-.
-.
-
-
-.
-
-..
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-..
-.
-
-.
-
-.
-
-
+EOF.
