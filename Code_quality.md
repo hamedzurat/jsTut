@@ -49,6 +49,19 @@
 * <https://eslint.org/>
 
 
+## Comments
+
+<https://javascript.info/comments>
+
+> use jsDoc 
+> * <https://en.wikipedia.org/wiki/JSDoc>
+> * <https://jsdoc.app/>
+
+> replace a code piece with a function,
+
+> camelcased function and varible 
+
+> comment on top of function about usage, parameters, returned value.
 
 .
 
