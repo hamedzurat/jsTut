@@ -63,6 +63,15 @@
 
 > comment on top of function about usage, parameters, returned value.
 
+## Ninja code
+
+<https://javascript.info/ninja-code>
+
+> Many try to follow ninja paths. Few succeed. so..
+
+> **dont use it**
+
+
 .
 
 .
