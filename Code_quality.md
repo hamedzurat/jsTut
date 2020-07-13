@@ -94,7 +94,16 @@
 >
 > * <https://www.chaijs.com/api/assert/>
 
+## Polyfills
 
+<https://javascript.info/polyfills>
+
+### Babel
+
+> Babel is a transpiler.
+> It rewrites modern JavaScript code into the previous standard.
+
+> use bable because some browser might broke if we use modern fetures
 
 
 
